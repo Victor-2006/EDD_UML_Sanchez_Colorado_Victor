@@ -18,6 +18,9 @@ Se usan para poder modelar un sistema mas eficiente con mayor rendimiento, menor
 
 # Bibliografia
 
-[1] IONOS [Online] Available: https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/diagramas-de-actividades-uml/ 
+[1] IONOS [Online] Available: https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/diagramas-de-actividades-uml/
+
 [2] Object Management Group [Online] Available: https://www.omg.org/
+
 [3] IBM [Online] Available: https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/design-rhapsody/9.0.1
+
